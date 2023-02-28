@@ -68,12 +68,12 @@ self.__precacheManifest = [
     "url": "/static/media/revicons.04eb8fc5.woff"
   },
   {
-    "revision": "17629a5dfe0d3c3946cf401e1895f091",
-    "url": "/static/media/revicons.17629a5d.ttf"
-  },
-  {
     "revision": "2feb69ccb596730c72920c6ba3e37ef8",
     "url": "/static/media/revicons.2feb69cc.eot"
+  },
+  {
+    "revision": "17629a5dfe0d3c3946cf401e1895f091",
+    "url": "/static/media/revicons.17629a5d.ttf"
   },
   {
     "revision": "b59974e4940d874975010d1d3d1b7618",
@@ -132,12 +132,12 @@ self.__precacheManifest = [
     "url": "/static/media/CentraNo2-Medium.63911e85.ttf"
   },
   {
-    "revision": "386f05946a76935fcabf319affff517a",
-    "url": "/static/media/CentraNo2-Book.386f0594.ttf"
-  },
-  {
     "revision": "4ea3794d631bedab7999678f46b0a162",
     "url": "/static/media/CentraNo2-Bold.4ea3794d.ttf"
+  },
+  {
+    "revision": "386f05946a76935fcabf319affff517a",
+    "url": "/static/media/CentraNo2-Book.386f0594.ttf"
   },
   {
     "revision": "e167b72117fc768dd78fe7193929b462",
