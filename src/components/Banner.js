@@ -66,7 +66,7 @@ export const Banner = () => {
                     <p>Hiiiii, I'm Ahmed Sayed</p> <p>I'm a ReactJS Web Developer from Egypt, Take a tour in my website and have a look at my humble skills, hobbies and some of my websites i made.</p>
                     <div className="CV-div">
                       <h4>My CV</h4>
-                      <a className="CVa" href="../assets/myResume.pdf" download>
+                      <a className="CVa" href="drive.google.com/u/0/uc?id=1Lhi8fBCy3owv9VIxg2nKeagQMpYhL_Oz&export=download" download>
                         <img src={DownloadIcon} alt="Download Icon" />
                       </a>
                     </div>
