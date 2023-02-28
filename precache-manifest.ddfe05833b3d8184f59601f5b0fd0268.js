@@ -128,12 +128,12 @@ self.__precacheManifest = [
     "url": "/static/media/180226_A_03.bab81d36.mp4"
   },
   {
-    "revision": "4ea3794d631bedab7999678f46b0a162",
-    "url": "/static/media/CentraNo2-Bold.4ea3794d.ttf"
-  },
-  {
     "revision": "63911e8535278ced52b8a37e819f6f5d",
     "url": "/static/media/CentraNo2-Medium.63911e85.ttf"
+  },
+  {
+    "revision": "4ea3794d631bedab7999678f46b0a162",
+    "url": "/static/media/CentraNo2-Bold.4ea3794d.ttf"
   },
   {
     "revision": "386f05946a76935fcabf319affff517a",
