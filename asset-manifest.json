@@ -19,7 +19,7 @@
   "static/media/website1image3.png": "/static/media/website1image3.6ac23a75.png",
   "static/media/website2image2.png": "/static/media/website2image2.c0f966df.png",
   "static/media/website2image3.png": "/static/media/website2image3.d5f9c0db.png",
-  "static/media/styles.css": "/static/media/revicons.17629a5d.ttf",
+  "static/media/styles.css": "/static/media/revicons.2feb69cc.eot",
   "static/media/download.svg": "/static/media/download.b59974e4.svg",
   "static/media/gaming.png": "/static/media/gaming.67794f23.png",
   "static/media/movies.png": "/static/media/movies.88cf9b6d.png",
@@ -40,9 +40,9 @@
   "static/media/meter2.svg": "/static/media/meter2.7fb1b05f.svg",
   "static/media/banner-bg.png": "/static/media/banner-bg.5f3ca497.png",
   "static/media/color-sharp.png": "/static/media/color-sharp.d6409477.png",
-  "static/css/2.1bcfa0e0.chunk.css.map": "/static/css/2.1bcfa0e0.chunk.css.map",
   "static/css/main.2611d7b4.chunk.css.map": "/static/css/main.2611d7b4.chunk.css.map",
+  "static/css/2.1bcfa0e0.chunk.css.map": "/static/css/2.1bcfa0e0.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.ee65803b3c30d9137ccda4e863f3b2bc.js": "/precache-manifest.ee65803b3c30d9137ccda4e863f3b2bc.js",
+  "precache-manifest.901511505b4f95881a20477cfdd17258.js": "/precache-manifest.901511505b4f95881a20477cfdd17258.js",
   "service-worker.js": "/service-worker.js"
 }
