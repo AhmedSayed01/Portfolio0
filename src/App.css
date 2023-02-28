@@ -6,8 +6,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+*{
+  -webkit-overflow-scrolling: touch;
+}
 
 ::-webkit-scrollbar {
+  overflow: scroll;
   width: 10px;
 }
 
