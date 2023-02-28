@@ -33,7 +33,7 @@
   "static/media/bg.jpg": "/static/media/bg.450bedff.jpg",
   "static/media/download.png": "/static/media/download.c13f310e.png",
   "static/media/logo.png": "/static/media/logo.699ed04b.png",
-  "static/media/App.css": "/static/media/CentraNo2-Book.386f0594.ttf",
+  "static/media/App.css": "/static/media/CentraNo2-Medium.63911e85.ttf",
   "static/media/website1image4.png": "/static/media/website1image4.4b4a0004.png",
   "static/media/color-sharp2.png": "/static/media/color-sharp2.42c4dbf6.png",
   "static/media/meter1.svg": "/static/media/meter1.dea05c56.svg",
@@ -41,9 +41,9 @@
   "static/media/banner-bg.png": "/static/media/banner-bg.5f3ca497.png",
   "static/media/color-sharp.png": "/static/media/color-sharp.d6409477.png",
   "static/media/180226_A_03.mp4": "/static/media/180226_A_03.bab81d36.mp4",
-  "static/css/2.1bcfa0e0.chunk.css.map": "/static/css/2.1bcfa0e0.chunk.css.map",
   "static/css/main.960c3cf1.chunk.css.map": "/static/css/main.960c3cf1.chunk.css.map",
+  "static/css/2.1bcfa0e0.chunk.css.map": "/static/css/2.1bcfa0e0.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.baa948c33b3837cdb4f30b511bd7eb09.js": "/precache-manifest.baa948c33b3837cdb4f30b511bd7eb09.js",
+  "precache-manifest.4fa52eab16bd1a1dccac4a471bb46bf6.js": "/precache-manifest.4fa52eab16bd1a1dccac4a471bb46bf6.js",
   "service-worker.js": "/service-worker.js"
 }
