@@ -1451,7 +1451,7 @@ circle {
 
 @keyframes anim2 {
   100% {
-    stroke-dashoffset: 70;
+    stroke-dashoffset: 85;
   }
 }
 
@@ -1461,7 +1461,7 @@ circle {
 
 @keyframes anim3 {
   100% {
-    stroke-dashoffset: 70;
+    stroke-dashoffset: 85;
   }
 }
 
@@ -1471,7 +1471,7 @@ circle {
 
 @keyframes anim4 {
   100% {
-    stroke-dashoffset: 90;
+    stroke-dashoffset: 110;
   }
 }
 
@@ -1605,6 +1605,11 @@ svg {
     text-align: center;
   }
 
+
+  .outer {
+    margin-top: 100px;
+  }
+  
 }
 
 @media screen and (min-width: 600px) and (max-width: 900px){

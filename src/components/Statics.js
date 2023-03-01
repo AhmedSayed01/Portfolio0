@@ -110,7 +110,7 @@ export const Statics = () => {
                                 <div className="item">
                                     <div >
                                         <div className="skill1">
-                                            <div className="outer">
+                                            <div className="outer" style={{marginTop:'10px'}}>
                                                 <div className="inner">
                                                     <b>
                                                         {/* // ref={this.myRef}  */}
