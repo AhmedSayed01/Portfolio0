@@ -4,8 +4,6 @@ import Home from "./pages/Home";
 import Contact from "./components/Contact";
 import bg from "./assets/img/bg.jpg";
 
-
-
 // import { Router , Route } from "react-router-dom";
 import { NavBar } from "./components/NavBar";
 // import { Banner } from "./components/Banner";
@@ -22,6 +20,19 @@ import { Sugar } from 'react-preloaders2';
 import sample from '../src/assets/img/180226_A_03.mp4';
 
 const App = () => {
+
+  const [isMobile, setIsMobile] = useState(false);
+  useEffect(() => {
+    // add event listener to update isMobile state
+    function handleResize() {
+      setIsMobile(window.innerWidth < 765);
+    }
+    handleResize(); // set initial state
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
+
+
   const [loadingInProgress, setLoading] = useState(false);
   useEffect(() => {
     setLoading(true);
@@ -39,7 +50,12 @@ const App = () => {
       ) : (
         <div className="main-content">
           <div>
-            {/* <video draggable={false} className="vid" muted autoPlay loop
+
+          {isMobile ? (
+         <img src={bg} className='vid' alt="" srcset="" /> 
+
+      ) : (
+        <video draggable={false} className="vid" muted autoPlay loop
               style={{
                 position: 'fixed',
                 width: '100%',
@@ -55,9 +71,11 @@ const App = () => {
             >
               <source src={sample} type='video/mp4' />
 
-            </video> */}
-            <img src={bg} className='vid' alt="" srcset="" />
+            </video>
+      )}
 
+            
+           
           </div>
           <div>
             <NavBar />
