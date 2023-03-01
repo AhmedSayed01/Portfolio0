@@ -9,6 +9,9 @@
 *{
   -webkit-overflow-scrolling: touch;
 }
+body{
+  overflow: auto;
+}
 
 .hide-native-scrollbar {
   scrollbar-width: none; /* Firefox 64 */
@@ -203,7 +206,6 @@ html {
 
 body {
   font-weight: 400;
-  overflow-x: hidden;
   position: relative;
   background-color: #121212 !important;
   color: #fff !important;
