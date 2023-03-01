@@ -2,6 +2,7 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from "./pages/Home";
 import Contact from "./components/Contact";
+import bg from "./assets/img/bg.jpg";
 
 
 
@@ -26,7 +27,7 @@ const App = () => {
     setLoading(true);
     setTimeout(() => {
       setLoading(false);
-    },3000);
+    }, 3000);
   }, []);
   return (
     <div className="container">
@@ -38,7 +39,7 @@ const App = () => {
       ) : (
         <div className="main-content">
           <div>
-            <video className="vid" muted autoPlay loop
+            {/* <video draggable={false} className="vid" muted autoPlay loop
               style={{
                 position: 'fixed',
                 width: '100%',
@@ -54,7 +55,8 @@ const App = () => {
             >
               <source src={sample} type='video/mp4' />
 
-            </video>
+            </video> */}
+            <img src={bg} className='vid' alt="" srcset="" />
 
           </div>
           <div>
@@ -66,10 +68,10 @@ const App = () => {
               <Route exact path="/" element={<Home />} />
               <Route path="/Contact" element={<Contact />} />
             </Routes> */}
-          <Home />
+            <Home />
           </div>
 
-            <Footer />
+          <Footer />
 
         </div>
       )}
