@@ -33,7 +33,7 @@
   "static/media/bg.jpg": "/static/media/bg.450bedff.jpg",
   "static/media/download.png": "/static/media/download.c13f310e.png",
   "static/media/logo.png": "/static/media/logo.699ed04b.png",
-  "static/media/App.css": "/static/media/CentraNo2-Medium.63911e85.ttf",
+  "static/media/App.css": "/static/media/CentraNo2-Book.386f0594.ttf",
   "static/media/website1image4.png": "/static/media/website1image4.4b4a0004.png",
   "static/media/color-sharp2.png": "/static/media/color-sharp2.42c4dbf6.png",
   "static/media/meter1.svg": "/static/media/meter1.dea05c56.svg",
@@ -44,6 +44,6 @@
   "static/css/2.1bcfa0e0.chunk.css.map": "/static/css/2.1bcfa0e0.chunk.css.map",
   "static/css/main.7cf6a0fa.chunk.css.map": "/static/css/main.7cf6a0fa.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.5fc39d26d61d4b69bc096cf50839c1f6.js": "/precache-manifest.5fc39d26d61d4b69bc096cf50839c1f6.js",
+  "precache-manifest.7bb456129c8689de716d5d2e28ea9eb1.js": "/precache-manifest.7bb456129c8689de716d5d2e28ea9eb1.js",
   "service-worker.js": "/service-worker.js"
 }
