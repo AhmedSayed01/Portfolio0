@@ -1253,6 +1253,11 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   height: 150px;
   resize: none;
 }
+@media screen and (max-width: 600px) {
+  .contact form{
+    width: 100%;
+  }
+}
 
 .contact form input[type="text"]:focus,
 .contact form input[type="email"]:focus,
