@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.fbf7d582.chunk.css",
-  "main.js": "/static/js/main.6c96563f.chunk.js",
-  "main.js.map": "/static/js/main.6c96563f.chunk.js.map",
+  "main.js": "/static/js/main.58d0ded5.chunk.js",
+  "main.js.map": "/static/js/main.58d0ded5.chunk.js.map",
   "static/js/1.4794dbf6.chunk.js": "/static/js/1.4794dbf6.chunk.js",
   "static/js/1.4794dbf6.chunk.js.map": "/static/js/1.4794dbf6.chunk.js.map",
   "static/css/2.0f92078a.chunk.css": "/static/css/2.0f92078a.chunk.css",
@@ -34,7 +34,7 @@
   "static/media/download.png": "/static/media/download.c13f310e.png",
   "static/media/logo.png": "/static/media/logo.699ed04b.png",
   "static/media/180226_A_03.mp4": "/static/media/180226_A_03.bab81d36.mp4",
-  "static/media/App.css": "/static/media/myPic.e167b721.png",
+  "static/media/App.css": "/static/media/CentraNo2-Book.386f0594.ttf",
   "static/media/website1image4.png": "/static/media/website1image4.4b4a0004.png",
   "static/media/color-sharp2.png": "/static/media/color-sharp2.42c4dbf6.png",
   "static/media/meter1.svg": "/static/media/meter1.dea05c56.svg",
@@ -44,6 +44,6 @@
   "static/css/main.fbf7d582.chunk.css.map": "/static/css/main.fbf7d582.chunk.css.map",
   "static/css/2.0f92078a.chunk.css.map": "/static/css/2.0f92078a.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.b4ddff6e7cf9ba28ac84010ec27afe62.js": "/precache-manifest.b4ddff6e7cf9ba28ac84010ec27afe62.js",
+  "precache-manifest.5072c6187063b345bde88fd9aa93c75e.js": "/precache-manifest.5072c6187063b345bde88fd9aa93c75e.js",
   "service-worker.js": "/service-worker.js"
 }
