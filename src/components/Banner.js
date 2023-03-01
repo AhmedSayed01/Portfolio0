@@ -9,20 +9,7 @@ import TrackVisibility from 'react-on-screen';
 
 export const Banner = () => {
 
-  const onButtonClick = () => {
-    // using Java Script method to get PDF file
-    fetch('myResume2.pdf').then(response => {
-        response.blob().then(blob => {
-            // Creating new object of PDF file
-            const fileURL = window.URL.createObjectURL(blob);
-            // Setting various property values
-            let alink = document.createElement('a');
-            alink.href = fileURL;
-            alink.download = 'myResume2.pdf';
-            alink.click();
-        })
-    })
-}
+  
   // const [loopNum, setLoopNum] = useState(0);
   // const [isDeleting, setIsDeleting] = useState(false);
   // const [text, setText] = useState('');
@@ -81,7 +68,7 @@ export const Banner = () => {
                     <p>Hiiiii, I'm Ahmed Sayed</p> <p>I'm a ReactJS Web Developer from Egypt, Take a tour in my website and have a look at my humble skills, hobbies and some of my websites i made.</p>
                     <div className="CV-div">
                       <h4>My CV</h4>
-                      <a className="CVa" style={{cursor:'pointer'}} onClick={onButtonClick}>
+                      <a className="CVa" target="_blank" href="https://drive.google.com/file/d/1Cnr5fqjlpk2C8PKy3qr7nYDkVYFjqfjb/view?usp=share_link">
                         <img src={DownloadIcon} alt="Download Icon" />
                       </a>
                     </div>
